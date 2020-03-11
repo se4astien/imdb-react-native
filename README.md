@@ -1,6 +1,6 @@
 # IMDB React Native
 
-Landing Page using React Native
+IMDB Clone using React Native
 
 ## Screenshot
 
